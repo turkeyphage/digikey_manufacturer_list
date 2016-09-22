@@ -1,0 +1,866 @@
+3M
+4D Systems
+Aavid Thermalloy
+Abracon Corporation
+Accelerated Designs
+Zentri
+ACKme
+ACL Staticide, Inc.
+Active-Semi
+Adafruit
+Adapteva
+Adesto Technologies
+ADI
+Advanced Linear Devices, Inc.
+Luna Optoelectronics
+Advanced Photonix
+Advanced Sensors
+Amphenol
+Advanced Thermal Solutions, Inc.
+Advantech
+Aeris
+Aerospace Defense and Marine
+TE Connectivity
+Agastat Relays
+TE Connectivity
+AIM-Cambridge
+Cinch Connectivity Solutions
+AKM Semiconductor, Inc.
+ALCOSWITCH Switches
+TE Connectivity
+AMGIS
+AlfaMag Electronics
+All Sensors Corporation
+Allegro MicroSystems, LLC.
+Alliance Memory, Inc.
+Alpha and Omega Semiconductor, Inc.
+Alpha Wire
+Altera
+American Electrical, Inc.
+American Technical Ceramics
+Ametherm
+Amgis
+AMI Semiconductor
+ON Semiconductor
+AMP Connectors
+TE Connectivity
+Amphenol
+Amphenol Advanced Sensors
+Amphenol Aerospace Operations
+Amphenol Commercial Products
+Amphenol RF
+Amphenol Connex
+Amphenol FCI
+Amphenol Industrial
+Amphenol Pcd
+Amphenol RF
+Amphenol Sine Systems
+Amphenol SV Microwave
+Amphenol Tuchel Electronics
+Ampleon
+Amprobe
+ams
+Amulet Technologies, LLC.
+Analog Devices, Inc.
+Anaren
+Angstrohm
+Vishay
+Antenova
+Apacer
+APEM Inc.
+Apex Microtechnology
+Apex Tool Group
+API Delevan
+API Technologies Corp.
+APM Hexseal
+Aptina
+ON Semiconductor
+Ohmite
+ARCOL
+Bulgin
+Arcolectric
+Arduino
+Aries Electronics, Inc.
+ARM
+Artaflex Inc.
+Artesyn Embedded Technologies
+Asahi Kasei Microdevices
+AKM Semiconductor
+ASSMANN WSW Components
+Artesyn Embedded Technologies
+Astec America
+Astro Tool Corp.
+Atmel
+ATP Electronics, Inc.
+Ault
+SL Power
+Broadcom Limited
+Avago Technologies
+Aven
+Avery Dennison
+AVX Corporation
+Axicom Relays
+TE Connectivity
+Aztronic
+Vishay
+B B Battery
+B&F Fastener Supply
+B&K Precision
+B+B SmartWorx, Inc.
+Bel
+Bel Fuse, Inc.
+Bel Power Solutions
+Bergquist
+BI Technologies
+TT Electronics
+Birtcher
+Pentair
+Bivar, Inc.
+BlueCreation
+BlueRadios, Inc.
+Bluetechnix GmbH
+BNS Solutions
+Winchester Electronics
+Bomar
+Bosch Sensortec
+Bourns, Inc.
+Bridgelux, Inc.
+Broadcom Limited
+Buchanan Terminal Blocks
+TE Connectivity
+Bud Industries, Inc.
+Bulgin
+Eaton
+Bussmann
+C&K Components
+Caddock Electronics, Inc.
+Bivar
+Califia Lighting
+CMD
+California Micro Devices
+ON Semiconductor
+Calmark
+Pentair
+Cannon
+Cantherm
+Capital Advanced Technologies, Inc.
+Carclo Technical Plastics
+Cardinal Components
+Carling Technologies
+Catalyst Semiconductor
+ON Semiconductor
+California Eastern Laboratories
+CEL
+Central Semiconductor
+Cera-Mite
+Vishay
+CGS Resistors
+TE Connectivity
+Chemtronics
+Cherry Americas
+Cherry ZF
+Chip Quik, Inc.
+Cicoil
+CII
+TE Connectivity
+Cinch Connectivity Solutions
+Cirrus Logic
+Citizen Electronics Co., Ltd.
+Citizen Finedevice Co., LTD.
+CNC Tech
+Cogent Computer Systems
+Cognimem
+Eaton
+Coiltronics
+Comair Rotron
+Comchip Technology
+Condor
+SL Power
+Conec
+Amphenol RF
+Connex
+Connor-Winfield
+Conxall
+Switchcraft
+Eaton
+Cooper Bussmann
+Copal Electronics
+Corcom Filters
+TE Connectivity
+Cornell Dubilier Electronics
+Inphi
+Cortina Systems
+Coto Technology
+CR Magnetics, Inc.
+Cree
+Crescent
+Critical Link
+Crouzet Controls
+Crydom
+Crystek Corporation
+CSR PLC
+C-Ton Industries
+CTS Electronic Components
+CUI, Inc.
+Curtis Industries
+Curtis Instruments
+Custom Computer Services
+CW Industries
+Cymbet
+Cynergy3
+Cypress Semiconductor
+D6 Labs
+Daburn
+Dale
+Vishay
+DAVE Embedded Systems
+DecaWave
+Delta Electronics
+Delta Electronics
+EMI
+Delta Electronics
+Fans
+Delta Electronics
+Power
+Desco
+DEUTSCH Connectors
+TE Connectivity
+Dialight
+Dialog Semiconductor
+Digi International
+Digilent, Inc.
+Digital Six Laboratories, LLC
+Digital View Inc.
+Diodes Incorporated
+DLP Design, Inc.
+Draloric
+Vishay
+dresden elektronik
+Dynastream Innovations Inc.
+E Ink
+EasyBraid Co.
+Eaton
+ebm-papst Inc.
+Echelon
+Econais
+ECS Inc. International
+EDAC Inc.
+Elcon Connectors
+TE Connectivity
+Electric Imp
+EFI
+Electro-Films
+Vishay
+Electronic Assembly GmbH
+Electroswitch
+Elna America
+Embedded Artists
+Artesyn Embedded Technologies
+Emerson Embedded Power
+Energizer Battery Company
+Silicon Labs
+Energy Micro
+EnerSys
+EnOcean
+EPC
+EPCOS
+Epson
+Equinox Technologies
+EREM
+Essentra Components
+ESTA
+Vishay
+E-Switch
+E-T-A
+Ethertronics
+Energizer Battery Company
+Eveready
+Everlight Electronics
+EverSpin Technologies, Inc.
+Exar Corporation
+Excelitas Technologies
+Excelsys Technologies Ltd.
+E-Z-Hook
+Fairchild
+Fan-S Division
+Qualtek Electronics Corp.
+Amphenol FCI
+FCI
+Molex
+FCT Electronics
+FDK America
+FEIG ELECTRONIC
+Finisar Corporation
+Flambeau, Inc.
+FLIR
+Fluke Electronics
+Fox Electronics
+Free2move
+Freescale
+NXP Semiconductors
+Fremont Micro Devices
+FTDI
+Fujitsu Electronics America, Inc.
+Future Designs, Inc.
+Future Technology Devices International, Ltd.
+GainSpan Corporation
+GC Electronics
+GE Critical Power
+General Cable
+GeneSiC Semiconductor
+Global Power Technologies Group
+Grayhill, Inc.
+Greenlee Communications
+H&D Wireless
+Hamlin
+Littelfuse
+Hammond Manufacturing
+HARTING
+Harwin
+Heatron
+HellermannTyton
+Henkel
+Loctite
+HiRel Systems
+Vishay
+Hirose
+Holsworthy Resistors
+TE Connectivity
+Holt Integrated Circuits, Inc.
+Honeywell Microelectronics & Precision Sensors
+Honeywell Sensing and Productivity Solutions
+I
+O Interconnect
+IAR Systems Software Inc
+Inventus Power
+ICCNexergy
+Illinois Capacitor
+ILLUMRA
+Industrial Fiber Optics, Inc.
+Infineon Technologies
+Initial State Technologies, Inc.
+Innovasic Semiconductor
+Inphi
+Inspired LED
+IDT
+Integrated Device Technology
+ISSI
+Integrated Silicon Solution, Inc.
+Intematix
+Interlink Electronics
+Infineon Technologies
+International Rectifier
+Intersil
+InvenSense
+Inventek Systems
+Inventus Power
+Infineon Technologies
+IR
+IRC
+TT Electronics
+IRTOUCH Systems Co., Ltd.
+Isocom Components
+Integrated Silicon Solution, Inc.
+ISSI
+ITT Cannon, LLC
+ITT Interconnect Solutions
+Chemtronics
+ITW Chemtronics
+IXYS Corporation
+IXYS Integrated Circuits Division
+J.W. Miller
+Bourns
+JAE Electronics, Inc.
+Jinlong Machinery & Electronics Co. Ltd.
+JKL Components Corporation
+Johanson Dielectrics, Inc.
+Johanson Technology
+Johnson
+Cinch Connectivity Solutions
+Jonard Tools
+JRC Corporation
+NJRC
+JST
+Judco Manufacturing, Inc.
+ARM
+Keil
+KEMET
+Kester
+Keystone Electronics Corp.
+Khatod
+Kilo International
+Kilovac Relays
+TE Connectivity
+Kingbright
+Winchester Electronics
+Kings
+Knowles
+Knowles
+Syfer
+Knowles Voltronics
+Kyocera
+Kyocera Display
+Laird - Embedded Wireless Solutions
+Laird Technologies
+Laird Technologies - Antennas
+Laird Technologies - EMI
+Laird Technologies - Signal Integrity Products
+Laird Technologies - Thermal Products
+LAPIS Semiconductor
+Lattice Semiconductor
+Teledyne LeCroy
+LeCroy
+LED Engin
+LEDdynamics, Inc.
+LEDiL
+LEM USA, Inc.
+LEMO
+Lighting Science
+Lime Microsystems
+Linear Technology
+Link Labs
+Linx Technologies
+Lite-On, Inc.
+Littelfuse
+LMB Heeger, Inc.
+LOCTITE
+Henkel
+Logic PD, Inc.
+Logical Systems
+LSR
+Lumex, Inc.
+LUMILEDS
+Luminary Micro
+Texas Instruments
+Luminus Devices
+Luna Optoelectronics
+Luxo
+MACOM Technology Solutions
+Macraigor Systems LLC
+Macronix
+Maestro Wireless Solutions
+Mag-LED Solutions
+Magnasphere Corp.
+Mallory Sonalert Products
+Marktech Optoelectronics
+Martel Electronics
+Master Appliance Corp.
+Matrix Orbital
+Maxim Integrated
+Maxwell Technologies, Inc.
+MCB Industrie
+Vishay
+Measurement Specialties
+TE Connectivity
+MEC switches
+Mechatronics
+MegaChips
+Melexis
+Memory Protection Devices
+MEMSIC
+Mentor Graphics
+MG Chemicals
+Micrel
+Microchip
+Micrium
+MCC
+Micro Commercial Components
+Micro
+sys
+Microchip Technology
+microEngineering Labs Inc.
+Micro-Measurements
+Vishay Precision Group
+Micron Technology
+Micronas
+Microsemi
+Microwave Technology
+Midcom
+Wurth Electronics
+Mide Technology
+Midwest Microwave
+Cinch Connectivity Solutions
+MikroElektronika
+Mill-Max
+Mills
+Vishay
+Milwaukee
+Vishay
+MMB Networks
+Molex
+Monolithic Power Systems
+MPD
+MPS
+Mueller Electric Co.
+Multicore
+Henkel
+Multi-Tech Systems, Inc.
+Murata Electronics
+Murata Power Solutions
+Nakagawa Manufacturing USA, Inc.
+National Semiconductor
+Texas Instruments
+Telit Wireless Solutions
+Navman Wireless
+NDK
+Nearson
+Neohm Resistors
+TE Connectivity
+Nesscap Co., Ltd
+NetBurner, Inc.
+Newava Technology
+Newhaven Display, Intl.
+Nichicon
+NimbeLink
+NJR Corporation
+NJRC
+NKK Switches
+NMB Technologies Corp.
+NorComp
+Nordic Semiconductor
+Noritake Co., Inc.
+NovaSensor
+GE Measurement & Control
+Nuvoton Technology Corporation America
+NVE Corporation
+NXP Semiconductors
+Freescale
+Octavo Systems
+OEG Relays
+TE Connectivity
+Ohmite
+Jonard Tools
+OK Industries
+Olimex
+OmniVision Technologies
+Omron
+Omron Automation & Safety
+ON Semiconductor
+On-Shore Technology, Inc.
+Optek Technology
+TT Electronics
+Option NV
+Opto Diode Corporation
+Opulent North America
+O'Reilly Media, Inc.
+Orion Fans
+OSRAM Opto Semiconductors, Inc.
+Packet Digital LLC
+Greenlee Communications
+Paladin Tools
+Panasonic
+PanaVise
+Panduit
+Parallax, Inc.
+Parlex Corp.
+Patco Electronics
+Patco Services
+PCD
+Amphenol
+Pentair
+Peregrine Semiconductor
+Pericom Semiconductor Corp.
+Pervasive Displays
+PHIHONG USA
+LUMILEDS
+Philips
+Phoenix Contact
+Phoenix Mecano
+Rose Bopla
+Phoenix Passive Components
+Vishay
+Phyton, Inc.
+Polytech
+Vishay
+Pomona Electronics
+Pontiac Coil, Inc.
+Portescap
+Potter & Brumfield Relays
+TE Connectivity
+Power Integrations
+Powerex, Inc.
+Bel Power Solutions
+Power-One
+Eaton
+PowerStor
+PRD Plastics
+Preci-Dip
+Precision Design Associates, Inc.
+Precision Electronic Components Ltd.
+ProAnt
+Products Unlimited Transformers & Relays
+TE Connectivity
+PUI Audio, Inc.
+Pulsar
+Pulse Electronics Corporation
+PulseCore Semiconductor
+ON Semiconductor
+Q-Cee's
+TE Connectivity
+QT Brightek
+Quadcept
+Qualtek Electronics Corp.
+Quarton, Inc.
+Quatech
+B+B SmartWorx
+Radial Magnet, Inc.
+Raychem Cable Protection
+TE Connectivity
+RECOM Power
+Red Lion Controls
+REDEL
+LEMO
+Renesas Electronics America
+RF Digital
+RF Solutions
+RFMD
+Essentra Components
+Richco, Inc.
+Richtek
+Riedon
+Rigado
+Roederstein
+Vishay
+ROHM Semiconductor
+Rose Bopla
+Roving Networks
+Microchip
+RPM Systems
+Rubycon
+Sagrad
+Samsung Electro-Mechanics America, Inc
+Samsung Semiconductor
+Samtec, Inc.
+Sanken Electric Co., Ltd.
+Sanyo Semiconductor
+ON Semiconductor
+Schaffner EMC, Inc.
+Schrack Relays
+TE Connectivity
+Schroff
+Pentair
+Schurter
+SCS
+Seeed
+Segger Microcontroller Systems
+Seiko Instruments, Inc.
+Semflex
+Cinch Connectivity Solutions
+Semtech
+Sensata Technologies, Airpax
+Sensirion
+Sensitron Semiconductor
+SMC Diode Solutions
+Seoul Semiconductor
+Serious Integrated
+Serpac Electronic Enclosures
+Sharp Microelectronics
+Sierra Wireless
+Sigma Designs
+Sigma Inductors
+TE Connectivity
+Signal Transformer
+SII Semiconductor Corporation
+Silicon Labs
+SINE Systems
+Amphenol
+Siretta
+SiTime
+SkyeTek
+Skyworks Solutions, Inc.
+SL Power Electronics - Manufacturer of Condor
+Ault Brands
+SMC Diode Solutions
+Soberton, Inc.
+SolidRun
+Souriau Connection Technology
+SparkFun
+Spectra Symbol
+Spectrum Digital
+Sprague Goodman
+SSI Technologies, Inc.
+Stackpole Electronics, Inc.
+Staco Energy Products Co.
+Standex-Meder Electronics
+Stanley Electric
+Steinel
+Stewart Connector
+STMicroelectronics
+Storm Interface
+Sullins Connector Solutions
+Sumida Corporation
+SunLED
+Sunon
+Susumu
+Swanstrom Tools
+Swissbit
+Switchcraft
+Conxall
+Syfer
+Synapse Wireless
+Tadiran Batteries
+Tag-Connect
+Taitien
+Taiyo Yuden
+Talema
+Tallysman Wireless
+Tamura
+Taoglas
+TAOS
+ams
+TDK Corporation
+TDK-Lambda Americas, Inc.
+TE Connectivity
+TE Connectivity Aerospace Defense and Marine
+TE Connectivity ALCOSWITCH Switches
+TE Connectivity AMP Connectors
+TE Connectivity Corcom Filters
+TE Connectivity DEUTSCH Connectors
+TE Connectivity Measurement Specialties
+TE Connectivity Potter & Brumfield Relays
+TE Connectivity Raychem Cable Protection
+TE Connectivity Raychem Circuit Protection
+Littelfuse
+TE Connectivity's Agastat Relays
+TE Connectivity's Axicom Relays
+TE Connectivity's Buchanan Terminal Blocks
+TE Connectivity's CGS Resistors
+TE Connectivity's CII
+TE Connectivity's Elcon Connectors
+TE Connectivity's Holsworthy Resistors
+TE Connectivity's Kilovac Relays
+TE Connectivity's Neohm Resistors
+TE Connectivity's OEG Relays
+TE Connectivity's Products Unlimited Transformers & Relays
+TE Connectivity's Q-Cee's
+TE Connectivity's Schrack Relays
+TE Connectivity's Sigma Inductors
+Teccor
+Littelfuse
+Techflex
+TechNexion
+Techno
+Vishay
+TechTools
+Teledyne LeCroy
+Telit Wireless Solutions, Inc.
+Tensility International Corporation
+Terasic Technologies
+TPI
+Test Products International
+Texas Instruments
+t-Global Technology
+Thermometrics
+GE Measurement & Control
+ThingMagic
+Thomas Research Products
+TOKO
+Murata
+Torex Semiconductor Ltd.
+Toshiba Semiconductor and Storage
+Touchstone Semiconductor
+Test Products International
+TPI
+TPK America LLC
+Trenz Electronic
+Triad Magnetics
+TRINAMIC Motion Control GmbH
+Tripp Lite
+Trompeter
+Cinch Connectivity Solutions
+TRP Connector
+TT Electronics
+TT Electronics
+BI Technologies
+TT Electronics
+IRC
+TT Electronics
+Optek Technology
+TT Electronics
+Welwyn
+Tuchel
+Amphenol
+Twin Industries
+TXC Corporation
+Tyco Electronics
+U.S. Sensor
+u-blox
+UDOO
+Ungar
+Weller
+United Chemi-Con
+US-Lasers, Inc.
+Varitronix International Ltd.
+Visual Communications Company
+VCC
+VEAM
+Vector Electronics & Technology, Inc.
+VersaLogic Corporation
+Vicor
+Virtium Technology Inc.
+Vishay
+Vishay
+BCcomponents
+Vishay
+Beyschlag
+Vishay
+Dale
+Vishay
+Huntington Electric, Inc.
+Vishay
+Semiconductor - Diodes Division
+Vishay
+Semiconductor - Opto Division
+Vishay
+Sfernice
+Vishay
+Siliconix
+Vishay
+Spectrol
+Vishay
+Sprague
+Vishay
+Thin Film
+Vishay
+Vitramon
+Vishay Foil Resistors
+Vishay Precision Group
+Vishay Precision Group
+Micro-Measurements
+Visual Communications Company, LLC
+Vitelec
+Cinch Connectivity Solutions
+Volgen
+Division of Kaga Electronics USA
+Knowles
+Voltronics
+VPG
+Micro-Measurements
+Wakefield-Vette
+Walsin Technology
+Wandboard
+Weidmuller
+Weller
+Welwyn
+TT Electronics
+Wickmann
+Littelfuse
+Wiha
+Winbond Electronics Corporation
+Winchester Electronics
+Wintec Industries
+Wiss
+WIZnet
+Wurth Electronics
+Wurth Electronics Midcom
+Xcelite
+Xeltek
+Xilinx
+XMOS
+XP Power
+Xsens
+Yageo
+Zentri
+Diodes Inc.
+Zetex Semiconductors
+Zilog
